@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'Cũng tạm được😌',
     question:'Nói cho anh biết tại sao em nghĩ vậy điii 😗',
     btnReply: 'Gửi anh nè',
-    reply: 'Tại anh tốt bụng, ngoan hiền và luôn quan tâm tới em 🥰',
+    reply: 'Tại anh tốt bụng, ngoan hiền và luôn quan tâm tới em 🥰.............',
     mess: 'Anh biết mà 🥰',
     messDesc: 'ib với anh luôn đi nàooooo',
     btnAccept: 'Vângggg',
-    messLink: 'https://m.me/phung1609/'
+    messLink: 'https://m.me/tphung169/'
 }
